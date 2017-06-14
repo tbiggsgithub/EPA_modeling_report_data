@@ -3,7 +3,7 @@ Loc.code,Geology,Description,Cobble,Gravel  ,Sand,Silt,Clay
 2,CG.SUB,"Subsoil, gray cobbly sand ~2m from surface",38,11.9,37.3,15.8,35
 5,CG.SURF,"Surface soil (2-10 cm), red (figure 5.2.5s)",44,0,48.7,45.9,5.4
 6,CG.SURF,"Surface soil (2-10 cm), red cobbly cap mixed with gray",0,0,44.4,48,7.6
-19,CG.SURF,"Subsoil, highly conglomerate layer in Salvatierra",70,15,36.5,9.6,4
+19,CG.SUB,"Subsoil, highly conglomerate layer in Salvatierra",70,15,36.5,9.6,4
 13,CG.SE.CH,"Channel, SE fill in earthen channel near confluence",0,0,6.4,76,17.6
 14,CG.SE.CH,"Channel, right bank, SE1, (7/22/14)",0,0,59.3,36,4.7
 0,MXSB,Surface soil (2-10 cm) (Figure 5.2.4s),0,0,58.4,36,5.6
@@ -13,10 +13,10 @@ Loc.code,Geology,Description,Cobble,Gravel  ,Sand,Silt,Clay
 3,SC.SURF,"Surface soil (2-10 cm), red cobbly soil (figure 5.2.2s)",0,0,18.4,42,39.6
 4,SC.SURF,"Subsoil, cemented gray non-cobble",0,0,36.4,60,3.6
 7,SC.SUB,"Subsoil, non cobby, cut main",0,0,34.4,36,29.6
-15,SC.SURF,"Subsoil, main above school rills near SB",0,0,87.7,6.6,5.7
+15,SC.SUB,"Subsoil, main above school rills near SB",0,0,87.7,6.6,5.7
 17.1,SC.SUB,"Subsoil (1m), non cobbly layer. Figure 5.2.8s",0,2,1.3,82.3,14.4
 17.2,SC.SURF,"Surface, cobbly layer. Figure 5.2.8s",60,0,79.2,14,6.8
-18,SC.SURF,"Subsoil, Sandy layer in SB",0,0,43.3,4.7,52
+18,SC.SUB,"Subsoil, Sandy layer in SB",0,0,43.3,4.7,52
 3,SC.SUB,"Subsoil, cobbly layer in Salvatierra",30,20,6.6,45.1,28.3
 16,SC.Main.CH,"Channel, right bank, Main B (10/13/14)",0,0,17.7,65.6,16.7
 12,SC.SE.CH,"Channel, R bank (thin sandy layer that is undercut), SE2 (7/22/14)",0,11.2,64.3,19.5,5
